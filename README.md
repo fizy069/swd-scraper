@@ -13,7 +13,8 @@ A simple Python script that automatically logs into the SWD portal and fetches h
 - Python 3.x
 - `requests` 
 - `beautifulsoup4` 
-- `dotenv` 
+- `dotenv`
+  
 You can install the necessary libraries using `pip`:
 
 ```bash
